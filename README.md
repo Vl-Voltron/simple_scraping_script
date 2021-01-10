@@ -6,7 +6,7 @@ Simple Python script for web scraping
 <li>requests</li>
 <li>bs4</li> 
 </ul>
-## Available options    
+<strong>Available options</strong>
 <ol>
 <li>Status Code</li>
 <li>A Tags</li>
